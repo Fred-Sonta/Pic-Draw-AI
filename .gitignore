@@ -1,0 +1,9 @@
+# Environnements virtuels Python
+venv/
+env/
+ENV/
+.venv/
+
+# Autres fichiers Python à ignorer
+__pycache__/
+*.py[cod]

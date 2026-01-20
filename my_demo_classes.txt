@@ -1,0 +1,8 @@
+bonhomme
+carre
+cercle
+coeur
+eclair
+etoile
+maison
+triangle
